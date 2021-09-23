@@ -1,4 +1,0 @@
-Language: Russian
-Duration: 20:45:06
-Reader: Aleksey Minaev
-Source: bibe.ru

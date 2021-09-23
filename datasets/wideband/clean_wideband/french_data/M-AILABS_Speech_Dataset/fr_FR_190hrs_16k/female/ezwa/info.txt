@@ -1,4 +1,0 @@
-Source:	  LibriVox (https://librivox.org)
-Language: French (France)
-Speaker:  Ezwa
-Duration: 50:12:25
