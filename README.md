@@ -1,6 +1,6 @@
 # INTERSPEECH 2021: 3rd Deep Noise Suppression (DNS) Challenge
 
-This repository contains the datasets and scripts required for the 3rd DNS challenge. For more details about the challenge, please visit https://www.microsoft.com/en-us/research/dns-challenge/home. For more details on the testing framework, please visit [P.808](https://github.com/microsoft/P.808).
+1This repository contains the datasets and scripts required for the 3rd DNS challenge. For more details about the challenge, please visit https://www.microsoft.com/en-us/research/dns-challenge/home. For more details on the testing framework, please visit [P.808](https://github.com/microsoft/P.808).
 
 ## Repo details:
 * The **datasets** directory contains the clean speech, noise and room impulse responses for creating training data. It also contains the test set that participants can use during the development stages. We have fullband (48kHz) and wideband (16kHz) training data and testset. 
